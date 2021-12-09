@@ -29,14 +29,14 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/windroser11/Maalutty_V2) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V2
+$ git clone https://github.com/windroser11/Maalutty_V2
 $ cd MAALUTTY_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -45,7 +45,7 @@ $ node maalutty.js
       
 ```js
 SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V2
+$ git clone https://github.com/windroser11/Maalutty_V2
 $ cd MAALUTTY_V2
 $ npm i
 $ node maalutty.js
